@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "ciphermail"
-version = "0.0.1"
+version = "0.1.0"
 description = "Secure messaging system with Python and MongoDB"
 authors = ["Eduardo Kairalla <eduardokairalla123@gmail.com>"]
 readme = "README.md"
