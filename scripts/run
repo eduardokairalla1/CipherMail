@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Run CipherMail application
+poetry run python -m ciphermail.main
